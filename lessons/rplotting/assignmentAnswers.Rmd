@@ -1,5 +1,10 @@
 # Answers
 
+```{r}
+knitr::opts_chunk$set(eval = FALSE)
+```
+
+
 1. 
 ```{r}
 library(ggplot2)

@@ -8,6 +8,11 @@ sidebar: false
 output: slidy_presentation
 ---
 
+```{r, echo = FALSE}
+knitr::opts_chunk$set(eval = FALSE)
+```
+
+
 # ggplot2 #
 
 The ggplot2 package is an R package that uses the "Grammar of Graphics" to put together different aspects of data visualization to build quality graphics. It is a very popular package. 
